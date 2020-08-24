@@ -291,6 +291,12 @@ a.link-light:active,
 a.link-light:focus {
   color: #fff;
 }
+.social-icon {
+  font-size: 25px;
+}
+.facebook-icon{
+  margin-right: 25px;
+}
 
 .btn-row {
   margin-left: -5px;
