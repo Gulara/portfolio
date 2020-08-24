@@ -286,6 +286,7 @@ a.link-white:focus {
 }
 .logo {
   width: 250px;
+  height: 250px;
 }
 
 a.link-light,
