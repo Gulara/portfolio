@@ -284,6 +284,9 @@ a.link-white:active,
 a.link-white:focus {
   color: #fff;
 }
+.logo {
+  width: 250px;
+}
 
 a.link-light,
 a.link-light:hover,
@@ -293,10 +296,13 @@ a.link-light:focus {
 }
 .social-icon {
   font-size: 25px;
+  
 }
-.facebook-icon{
+.social-icon:not(:last-of-type) {
   margin-right: 25px;
+  
 }
+
 
 .btn-row {
   margin-left: -5px;
